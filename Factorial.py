@@ -5,5 +5,3 @@ def factorial(n):
         result *= i
     return result
 print (factorial(n))
-
-
